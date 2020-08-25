@@ -6,5 +6,6 @@ Below is a gif of the fully functioning 2D model.
 
 ![alt text](https://github.com/beekarthik/swarm/blob/master/img/2d-flocking.gif)
 
+Currently working extending this example to work in 3 dimensions so that the swarm algorithm can be directly applied into an Augmented Reality framework like Google ARCore.
 
-Currently working extending this example to work in three dimensions so that the flocking algorithms can be directly applied into an Augmented Reality framework like Google ARCore
+The core flocking algorithm that I used was actually created by Craig Reynolds and you can read about it [here.](https://www.red3d.com/cwr/boids/)
